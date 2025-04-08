@@ -25,4 +25,3 @@ This repository provides a comprehensive implementation of an **advanced image p
 - **Edge & Feature Detection:** Use Sobel operators for edge detection and the Harris method for corner detection.
 - **Optimization:** Enhance corner detection by performing Non-Maximum Suppression to extract only the most significant features.
 
-## Project Structure
